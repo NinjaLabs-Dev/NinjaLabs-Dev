@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<div id="html-container" markdown="1">
+
+</div>
+
+<script src="./js/script.js">
+
+</script>
+
 <!--
 **NinjaLabs-Dev/NinjaLabs-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
