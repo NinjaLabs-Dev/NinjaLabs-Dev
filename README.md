@@ -6,7 +6,6 @@
 <a href="https://wakatime.com/@NinjaLabs">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NinjaLabs&show_icons=true&hide_border=true&bg_color=1b1b1b&title_color=ffffff&text_color=FFFFFF&icon_color=FFFFFF">
 </a>  
-  <br>
 <a href="https://github.com/NinjaLabs-Dev">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NinjaLabs-Dev&layout=compact&show_icons=true&hide_border=true&bg_color=1b1b1b&title_color=ffffff&text_color=FFFFFF&icon_color=FFFFFF">
 </a>  
