@@ -9,3 +9,14 @@
 <a href="https://github.com/NinjaLabs-Dev">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NinjaLabs-Dev&layout=compact&show_icons=true&hide_border=true&bg_color=1b1b1b&title_color=ffffff&text_color=FFFFFF&icon_color=FFFFFF">
 </a>  
+<br>
+<br>
+### Like my work? Support me!
+
+<p align="center">
+ <form action="https://www.paypal.com/donate" method="post" target="_top">
+  <input type="hidden" name="hosted_button_id" value="R22KA59DG36GE" />
+  <input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+  <img alt="" border="0" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1" />
+  </form> 
+</p>
