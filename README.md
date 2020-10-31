@@ -14,6 +14,6 @@
 
 <h2 align="center">Like my work? Support me!</h2>
 
-<p align="center">  
-  [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=R22KA59DG36GE)
+<p align="center">
+  <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=R22KA59DG36GE"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif"></a>
 </p>
