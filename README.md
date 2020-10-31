@@ -14,11 +14,6 @@
 
 <h2 align="center">Like my work? Support me!</h2>
 
-<p align="center">
-
- <form action="https://www.paypal.com/donate" method="post" target="_top" align="center">
-  <input type="hidden" name="hosted_button_id" value="R22KA59DG36GE" />
-  <input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-  <img alt="" border="0" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1" />
-  </form> 
+<p align="center">  
+  [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=R22KA59DG36GE)
 </p>
