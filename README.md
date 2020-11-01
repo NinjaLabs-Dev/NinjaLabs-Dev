@@ -9,6 +9,7 @@
 <a href="https://github.com/NinjaLabs-Dev">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NinjaLabs-Dev&layout=compact&show_icons=true&hide_border=true&bg_color=1b1b1b&title_color=ffffff&text_color=FFFFFF&icon_color=FFFFFF">
 </a>
+  <br>
   <img src="https://komarev.com/ghpvc/?username=NinjaLabs-Dev&color=lightgrey&style=flat-square&label=Profile+Views" alt="Profile Counts">
 </p>
 <br>
