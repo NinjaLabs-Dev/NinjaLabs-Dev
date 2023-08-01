@@ -10,3 +10,6 @@
   <img src="https://komarev.com/ghpvc/?username=NinjaLabs-Dev&color=lightgrey&style=flat-square&label=Profile+Views" alt="Profile Counts">
 </p>
 <br>
+<a href="https://api.statusbadges.me/openspotify/150987570715688960" target="_blank" rel="noopener"><img src="https://api.statusbadges.me/badge/spotify/150987570715688960?style=for-the-badge" alt="spotify"></a>
+<br>
+<img src="https://api.statusbadges.me/badge/intellij/150987570715688960?style=for-the-badge" alt="intellij">
