@@ -10,5 +10,3 @@
   <img src="https://komarev.com/ghpvc/?username=NinjaLabs-Dev&color=lightgrey&style=flat-square&label=Profile+Views" alt="Profile Counts">
 </p>
 <br>
-[![spotify](https://api.statusbadges.me/badge/spotify/150987570715688960?style=for-the-badge)](https://api.statusbadges.me/openspotify/150987570715688960)
-![coding](https://api.statusbadges.me/badge/intellij/1509875707156889600?style=for-the-badge)
