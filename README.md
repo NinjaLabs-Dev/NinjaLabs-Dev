@@ -2,7 +2,7 @@
 
 ### 👏 Oh Hey!
 
-I'm Ninja, a Software developer from the UK! I love to tinker and find what makes things tick, below you'll see a list of my recent projects and some information about me! If you'd like to get in touch for find out more about me, check my [portfolio here](https://ninjalabs.dev).
+I'm Ninja, a Software Engineer from the UK! I love to tinker and find what makes things tick, below you'll see a list of my recent projects and some information about me! If you'd like to get in touch for find out more about me, check my [portfolio here](https://ninjalabs.dev).
 
 ### What I love to use 👩‍💻
 
